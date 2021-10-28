@@ -14,11 +14,11 @@
 <h2 align = "left">More</h2>
 <hr height = "6px">
 <details align = "left">
-<summary>GitHub Status</summary>
+<summary><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Circle-icons-cloud.svg/2048px-Circle-icons-cloud.svg.png" width="20px" height="20px" style = "margin-right: 20px;border-radius: 100%;">GitHub Status</summary>
 <img src = "https://github-readme-stats.vercel.app/api?username=ipstoyanov20&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </details>
 <br>
 <details align = "left">
-<summary>Badges</summary>
+<summary><img src= "https://image.pngaaa.com/314/744314-middle.png" width="20px" height="20px" style = "margin-right: 20px;border-radius: 100%;">Badges</summary>
 <img src = "https://github-readme-stats.vercel.app/api?username=ipstoyanov20&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </details>
