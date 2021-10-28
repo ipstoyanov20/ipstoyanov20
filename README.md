@@ -7,7 +7,7 @@
 <br><br>
 <p align = "left" style = "display: flex;align-items: center;"><img src= "https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Circle-icons-cloud.svg/2048px-Circle-icons-cloud.svg.png" width="20px" height="20px" style = "margin-right: 20px;border-radius: 100%;">   How to reach me: <a style = "text-decoration: none;" href = "mailto:ipstoyanov20@codingburgas.bg">ipstoyanov20@codingburgas.bg</a></p>
 <br><br>
-<img align = "right" width = "100%" height="40%" src = "https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif">
+<img align = "right" width = "100%" height="20%" src = "https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif">
 <br><br>
 <h2 align = "left">More</h2>
 <hr height = "6px">
