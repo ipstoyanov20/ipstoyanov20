@@ -11,13 +11,13 @@
     <br><br>
     <h2 align = "left">More</h2>
     <hr height = "6px">
-      <details>
+      <p align = "left">
             <summary>GitHub Status</summary>
         <img src = "https://github-readme-stats.vercel.app/api?username=ipstoyanov20&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 
-      </details>
+      </p>
         <br><br>
-        <details>
+        <p align = "left">
             <summary>Badges</summary>
             <img src = "https://github-readme-stats.vercel.app/api?username=ipstoyanov20&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
-        </details>
+        </p>
