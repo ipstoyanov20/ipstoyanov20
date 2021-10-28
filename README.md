@@ -20,5 +20,5 @@
 <br>
 <details align = "left">
 <summary><img src= "https://cdn-icons-png.flaticon.com/128/1255/1255953.png" width="20px" height="20px" style = "margin-right: 20px;border-radius: 100%;">Badges</summary>
-<img src = "https://github-readme-stats.vercel.app/api?username=ipstoyanov20&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<img src = "https://image.pngaaa.com/519/1439519-small.png">
 </details>
