@@ -1,6 +1,7 @@
 <h1 align = "left">Hi, My name is Ivaylo Stoyanov</h1>
     <h2 align = "left">About me:</h2>
     <hr height = "6px">
+    
     <ul>
 
         <li style = "display: flex; align-items: center;margin-bottom: 20px;"><img src= "https://cdn2.vectorstock.com/i/1000x1000/62/01/cartoon-book-bulb-light-idea-read-learn-design-vector-14756201.jpg" width="20px" height="20px" style = "margin-right: 20px;border-radius: 100%;">I’m currently learning = { HTML5&CSS3, JavaScript and C++ }; </li>
