@@ -11,11 +11,11 @@
 <br><br>
 <p align = "left">Languaes and Tools that I use:
 <br>
-<img src = "https://code.visualstudio.com/assets/branding/app-icon.png" width = "40px" height = "40px">
-<img src = "https://cdn-icons.flaticon.com/png/128/1078/premium/1078407.png?token=exp=1635670615~hmac=79da5bb84e91e2c4de3ab75180315785" width = "60px" height = "60px">
-<img src = "https://cdn-icons-png.flaticon.com/128/179/179327.png" width = "40px" height = "40px">
-<img src = "https://cdn-icons-png.flaticon.com/128/4785/4785958.png" width = "40px" height = "40px">
-<img src = "https://cdn-icons-png.flaticon.com/128/179/179323.png" width = "40px" height = "40px">
+<img src = "https://code.visualstudio.com/assets/branding/app-icon.png" width = "40px" height = "40px" style = "margin:20px;">
+<img src = "https://cdn-icons.flaticon.com/png/128/1078/premium/1078407.png?token=exp=1635670615~hmac=79da5bb84e91e2c4de3ab75180315785" width = "40px" height = "40px" style = "margin:20px;">
+<img src = "https://cdn-icons-png.flaticon.com/128/179/179327.png" width = "40px" height = "40px" style = "margin:20px;">
+<img src = "https://cdn-icons-png.flaticon.com/128/4785/4785958.png" width = "40px" height = "40px"  style = "margin:20px;">
+<img src = "https://cdn-icons-png.flaticon.com/128/179/179323.png" width = "40px" height = "40px" style = "margin:20px;">
 </p>
 
 <img align = "right" width = "100%" height="10%" src = "https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif">
