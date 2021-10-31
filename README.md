@@ -11,9 +11,9 @@
 <br><br>
 <p align = "left">Languaes and Tools that I use:
 <img src = "https://code.visualstudio.com/assets/branding/app-icon.png" width = "60px" height = "60px">
-<img src = "https://cdn-icons-png.flaticon.com/128/28/28982.png" width = "60px" height = "60px">
+<img src = "https://cdn-icons.flaticon.com/png/128/1078/premium/1078407.png?token=exp=1635670615~hmac=79da5bb84e91e2c4de3ab75180315785" width = "60px" height = "60px">
 <img src = "https://cdn-icons-png.flaticon.com/128/179/179327.png" width = "60px" height = "60px">
-<img src = "https://cdn-icons-png.flaticon.com/128/74/74897.png" width = "60px" height = "60px">
+<img src = "https://cdn-icons-png.flaticon.com/128/4785/4785958.png" width = "60px" height = "60px">
 <img src = "https://cdn-icons-png.flaticon.com/128/179/179323.png" width = "60px" height = "60px">
 </p>
 
