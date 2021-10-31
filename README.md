@@ -13,7 +13,7 @@
 <br><br>
 <img src = "https://code.visualstudio.com/assets/branding/app-icon.png" width = "40px" height = "40px" style = "margin-left:20px;">
 <img src = "https://cdn-icons.flaticon.com/png/128/1078/premium/1078407.png?token=exp=1635670615~hmac=79da5bb84e91e2c4de3ab75180315785" width = "40px" height = "40px" style = "margin-left:20px;">
-<img src = "https://cdn-icons-png.flaticon.com/128/179/179327.png" width = "40px" height = "40px" style = "margin-left:20px;">
+<img src = "https://cdn-icons.flaticon.com/png/128/1073/premium/1073666.png?token=exp=1635670892~hmac=2b76807dcd6eb7d6bd7aeaa2361cbb8f" width = "40px" height = "40px" style = "margin-left:20px;">
 <img src = "https://cdn-icons-png.flaticon.com/128/4785/4785958.png" width = "40px" height = "40px"  style = "margin-left:20px;">
 <img src = "https://cdn-icons-png.flaticon.com/128/179/179323.png" width = "40px" height = "40px" style = "margin-left:20px;">
 </p>
