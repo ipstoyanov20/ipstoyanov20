@@ -9,12 +9,13 @@
 <br><br>
 <p align = "left" style = "display: flex;align-items: center;"><img src= "https://cdn-icons.flaticon.com/png/128/3643/premium/3643448.png?token=exp=1635444949~hmac=1caa5d0bbccfb5935c596e16c2de699f" width="20px" height="20px" style = "margin-right: 20px;border-radius: 100%;">   How to reach me: <a style = "text-decoration: none;" href = "mailto:ipstoyanov20@codingburgas.bg">ipstoyanov20@codingburgas.bg</a></p>
 <br><br>
-<p align = "left">Languaes and Tools that I use:</p>
+<p align = "left">Languaes and Tools that I use:
 <img src = "https://code.visualstudio.com/assets/branding/app-icon.png" width = "60px" height = "60px">
 <img src = "https://cdn-icons-png.flaticon.com/128/28/28982.png" width = "60px" height = "60px">
 <img src = "https://cdn-icons-png.flaticon.com/128/179/179327.png" width = "60px" height = "60px">
-<img src = "https://e7.pngegg.com/pngimages/46/626/png-clipart-c-logo-the-c-programming-language-computer-icons-computer-programming-source-code-programming-miscellaneous-template.png" width = "60px" height = "60px">
+<img src = "https://cdn-icons-png.flaticon.com/128/74/74897.png" width = "60px" height = "60px">
 <img src = "https://cdn-icons-png.flaticon.com/128/179/179323.png" width = "60px" height = "60px">
+</p>
 
 <img align = "right" width = "100%" height="10%" src = "https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif">
 <br><br>
