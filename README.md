@@ -32,4 +32,4 @@
 <img src = "https://image.pngaaa.com/519/1439519-small.png">
 </details>
 <hr>
-<h1 align= "center">Together Everyone Achieves More - TEAM</h1>
+<h1 align= "center"><b>T</b>ogether <b>E</b>veryone <b>A</b>chieves <b>M</b>ore - TEAM</h1>
