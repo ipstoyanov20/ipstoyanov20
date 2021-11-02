@@ -9,7 +9,7 @@
 <br><br>
 <p align = "left" style = "display: flex;align-items: center;"><img src= "https://cdn-icons.flaticon.com/png/128/3643/premium/3643448.png?token=exp=1635444949~hmac=1caa5d0bbccfb5935c596e16c2de699f" width="20px" height="20px" style = "margin-right: 20px;border-radius: 100%;">   How to reach me: <a style = "text-decoration: none;" href = "mailto:ipstoyanov20@codingburgas.bg">ipstoyanov20@codingburgas.bg</a></p>
 <br><br>
-<p align = "left">Languaes and Tools that I use:
+<p align = "left">Languaes and Tools:
 <br><br>
 <img src = "https://code.visualstudio.com/assets/branding/app-icon.png" width = "40px" height = "40px" style = "margin-left:20px;">
 <img src = "https://cdn-icons.flaticon.com/png/128/1078/premium/1078407.png?token=exp=1635670615~hmac=79da5bb84e91e2c4de3ab75180315785" width = "40px" height = "40px" style = "margin-left:20px;">
@@ -31,3 +31,5 @@
 <summary><img src= "https://cdn-icons-png.flaticon.com/128/1255/1255953.png" width="20px" height="20px" style = "margin-right: 20px;border-radius: 100%;">Badges</summary>
 <img src = "https://image.pngaaa.com/519/1439519-small.png">
 </details>
+<hr>
+<h1 align= "center">Together Everyone Achieves More - TEAM</h1>
