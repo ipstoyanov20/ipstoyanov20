@@ -23,7 +23,7 @@
 <h2 align = "left">More</h2>
 <hr height = "6px">
 <details align = "left">
-<summary><img src= "https://cdn-icons-png.flaticon.com/128/1786/1786640.png">GitHub Status</summary>
+<summary><img src= "https://cdn-icons-png.flaticon.com/128/1786/1786640.png" width = "40px" height = "40px">GitHub Status</summary>
 <img src = "https://github-readme-stats.vercel.app/api?username=ipstoyanov20&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 </details>
 <br>
