@@ -7,7 +7,7 @@
 <br><br>
 <p  align = "left" style = "display: flex;align-items: center;"><img src= "https://cdn-icons-png.flaticon.com/128/1764/1764591.png" height="20px" style = "margin-right: 20px;border-radius: 100%;">   Fun facts: I love listening to music, doing sports, drawing, playing video games and learning new things</p>
 <br><br>
-<p align = "left" style = "display: flex;align-items: center;"><img src= "https://cdn-icons.flaticon.com/png/128/3192/premium/3192750.png?token=exp=1637562076~hmac=3ba6ab218570264c30f0091b7243b2bb" width="20px" height="20px" style = "margin-right: 20px;border-radius: 100%;">   How to reach me: <a style = "text-decoration: none;" href = "mailto:ipstoyanov20@codingburgas.bg">ipstoyanov20@codingburgas.bg</a></p>
+<p align = "left" style = "display: flex;align-items: center;"><img src= "https://cdn-icons.flaticon.com/png/128/3095/premium/3095606.png?token=exp=1638270417~hmac=5a78344c6a19e0283a1ff18375758101" width="20px" height="20px" style = "margin-right: 20px;border-radius: 100%;">   How to reach me: <a style = "text-decoration: none;" href = "mailto:ipstoyanov20@codingburgas.bg">ipstoyanov20@codingburgas.bg</a></p>
 <br><br>
 <p align = "left">Languaes and Tools:
 <br><br>
