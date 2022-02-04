@@ -16,6 +16,7 @@
 <img src = "https://cdn-icons-png.flaticon.com/128/888/888859.png" width = "40px" height = "40px" style = "margin-left:20px;">
 <img src = "https://cdn-icons-png.flaticon.com/128/4785/4785958.png" width = "40px" height = "40px"  style = "margin-left:20px;">
 <img src = "https://cdn-icons-png.flaticon.com/128/179/179323.png" width = "40px" height = "40px" style = "margin-left:20px;">
+  <img src = "https://images.ctfassets.net/23aumh6u8s0i/2QjNmyDo6LfK4HC8F1q4qw/b8baddde46d79ec9432a15f14b4a41a2/javascript" width = "40px" height = "40px" style = "margin-left:20px;">
 </p>
 
 <img align = "right" width = "100%" height="10%" src = "https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif">
