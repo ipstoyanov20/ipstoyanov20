@@ -1,4 +1,4 @@
-<h1 align = "left">Hi, My name is Ivaylo Stoyanov</h1>
+<h1 align = "left">Hi, Ivaylo Stoyanov</h1>
 <h2 align = "left">About me:</h2>
 <hr height = "6px">
 <a href="![image](https://user-images.githubusercontent.com/85339464/139309838-029b71c7-f9c0-4b39-8ca3-f01d0c3e3e14.png)"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fipstoyanov20&count_bg=%23FF0000&title_bg=%234C3232&icon=&icon_color=%23E7E7E7&title=Visitiors&edge_flat=false"/></a>
