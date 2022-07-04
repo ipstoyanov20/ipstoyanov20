@@ -30,7 +30,10 @@
 <br>
 <details align = "left">
 <summary><img src= "https://cdn-icons-png.flaticon.com/128/1255/1255953.png" width="20px" height="20px" style = "margin-right: 20px;border-radius: 100%;">Badges</summary>
-<img src = "https://image.pngaaa.com/519/1439519-small.png">
+<img src = "https://images.credly.com/size/680x680/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" width = "100px" height = "100px">
+<img src = "https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" width = "100px" height = "100px">
+<img src = "https://images.credly.com/size/680x680/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" width = "100px" height = "100px">
+<img src = "https://images.credly.com/size/680x680/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" width = "100px" height = "100px">
 </details>
 <hr>
 <h1 align= "center"><i>T</i>ogether <i>E</i>veryone <i>A</i>chieves <i>M</i>ore - <i>TEAM</i></h1>
