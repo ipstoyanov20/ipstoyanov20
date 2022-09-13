@@ -3,10 +3,10 @@
 <hr height = "6px">
 <a href="![image](https://user-images.githubusercontent.com/85339464/139309838-029b71c7-f9c0-4b39-8ca3-f01d0c3e3e14.png)"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fipstoyanov20&count_bg=%23FF0000&title_bg=%234C3232&icon=&icon_color=%23E7E7E7&title=Visitiors&edge_flat=false"/></a>
 <br><br>
-<p align = "left" style = "display: flex;align-items: center;"><img src= "https://cdn-icons-png.flaticon.com/128/5431/5431415.png" width="20px" height="20px" border-radius = "100%">   I’m currently learning = { 
-  HTML5,
-  CSS3, 
-  JavaScript,
+<p align = "left" style = "display: flex;align-items: center;"><img src= "https://cdn-icons-png.flaticon.com/128/5431/5431415.png" width="20px" height="20px" border-radius = "100%">   I’m currently learning = { <br>
+  HTML5,<br>
+  CSS3, <br>
+  JavaScript,<br>
   C++}; </p>
 <br><br>
 <p  align = "left" style = "display: flex;align-items: center;"><img src= "https://cdn-icons-png.flaticon.com/128/1764/1764591.png" height="20px" style = "margin-right: 20px;border-radius: 100%;">   Fun facts: I love listening to music, doing sports, drawing, playing video games and learning new things</p>
