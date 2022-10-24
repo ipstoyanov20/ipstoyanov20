@@ -53,4 +53,4 @@
 </details>
 
 <hr>
-<h1 align= "center"><i>T</i>ogether <i>E</i>veryone <i>A</i>chieves <i>M</i>ore - <i>TEAM</i></h1>
+<h1 align= "center">Even if a man lives good, he dies</h1>
