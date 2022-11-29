@@ -46,10 +46,11 @@
 <details align = "left">
 <summary>:brain: :eyes: Badges</summary>
   <br><br>
-<img src = "https://images.credly.com/size/680x680/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" width = "100px" height = "100px"> 
-<img src = "https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" width = "100px" height = "100px">
-<img src = "https://images.credly.com/size/680x680/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" width = "100px" height = "100px">
-<img src = "https://images.credly.com/size/680x680/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" width = "100px" height = "100px">
+<a href = "https://www.credly.com/badges/8ad896f5-a939-4a35-a277-75bb42ed73b5"><img src = "https://images.credly.com/size/680x680/images/d9598c1a-2f59-49b9-b7fc-a764bf23b4d5/image.png" width = "100px" height = "100px"></a>
+<a href = "https://www.credly.com/badges/a58514b8-1ac7-40e1-abf3-03c4409e07b1"><img src = "https://images.credly.com/size/680x680/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" width = "100px" height = "100px"></a>
+<a href = "https://www.credly.com/badges/c379e97b-c657-42f2-8cb8-423f20023258"><img src = "https://images.credly.com/size/680x680/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" width = "100px" height = "100px"></a>
+<a href = "https://www.credly.com/badges/fd500b4d-5ad8-4e74-874d-93df715c215d"><img src = "https://images.credly.com/size/680x680/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" width = "100px" height = "100px"></a>
+<a href = "https://www.credly.com/badges/49cd3f0a-0268-4d18-9bd7-127cd47d5425"><img src = "https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" width = "100px" height = "100px"></a>
 </details>
 
 <hr>
