@@ -38,7 +38,7 @@
 <summary> :hammer_and_wrench:  GitHub Status</summary>
 <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=ipstoyanov20&theme=merko"/></a>
   
-<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipstoyanov20&layout=compact&theme=vision-friendly-dark"/></a>
+<a href="https://github.com/anuraghazra/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ipstoyanov20&hide_progress=true&hide=c,objective-c,cmake&theme=dark"/></a>
 </details>
 
 <br>
