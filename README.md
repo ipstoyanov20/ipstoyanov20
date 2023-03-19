@@ -22,7 +22,7 @@
 <img src = "https://code.visualstudio.com/assets/branding/app-icon.png" width = "40px" height = "40px" style = "margin-left:20px;">
 <img src = "https://cdn-icons-png.flaticon.com/128/888/888847.png" width = "40px" height = "40px" style = "margin-left:20px;">
 <img src = "https://cdn-icons-png.flaticon.com/128/888/888859.png" width = "40px" height = "40px" style = "margin-left:20px;">
-<img src = "https://cdn-icons-png.flaticon.com/128/4785/4785958.png" width = "40px" height = "40px"  style = "margin-left:20px;">
+<img src = "https://cdn-icons-png.flaticon.com/128/7743/7743681.png" width = "40px" height = "40px"  style = "margin-left:20px;">
 <img src = "https://cdn-icons-png.flaticon.com/128/179/179323.png" width = "40px" height = "40px" style = "margin-left:20px;">
 <img src = "https://cdn-icons-png.flaticon.com/128/5968/5968421.png" width = "40px" height = "40px" style = "margin-left:20px;">
 <img src = "https://cdn.worldvectorlogo.com/logos/react-1.svg" width = "40" height = "40px">
