@@ -6,12 +6,6 @@
 <img src="https://komarev.com/ghpvc/?username=ipstoyanov20&style=flat-square&color=blue" alt=""/>
 
 <hr height = "6px">
-<p align = "left" style = "display: flex;align-items: center;"> :mag_right: I’m currently learning = { <br>
-  HTML5,<br>
-  CSS3, <br>
-  JavaScript,<br>
-  C++}; </p>
-<br>
 <p  align = "left" style = "display: flex;align-items: center;"> :yarn: Fun facts: I love listening to music, doing sports, drawing, playing video games and learning new things</p>
 <br>
 <p align = "left" style = "display: flex;align-items: center;"> :telephone_receiver: How to reach me: <a style = "text-decoration: none;" href = "mailto:ipstoyanov20@codingburgas.bg">ipstoyanov20@codingburgas.bg</a></p>
