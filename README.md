@@ -37,7 +37,7 @@
 
 <br>
 
-<details align = "left">
+<details open>
 <summary>:brain: :eyes: Badges</summary>
   <br><br>
 <a href = "https://www.credly.com/badges/8ad896f5-a939-4a35-a277-75bb42ed73b5"><img src = "https://images.credly.com/size/680x680/images/d9598c1a-2f59-49b9-b7fc-a764bf23b4d5/image.png" width = "100px" height = "100px"></a>
