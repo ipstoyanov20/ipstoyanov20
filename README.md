@@ -48,4 +48,4 @@
 </details>
 
 <hr>
-<h1 align= "center">Even if a man lives good, he dies</h1>
+<h1 align= "center">One Day or Day One - YOU DECIDE</h1>
