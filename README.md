@@ -47,6 +47,7 @@
 <a href = "https://www.credly.com/badges/fd500b4d-5ad8-4e74-874d-93df715c215d"><img src = "https://images.credly.com/size/680x680/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" width = "100px" height = "100px"></a>
 <a href = "https://www.credly.com/badges/49cd3f0a-0268-4d18-9bd7-127cd47d5425"><img src = "https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" width = "100px" height = "100px"></a>
   <a href = "https://www.credly.com/earner/earned/badge/ce652f30-e9ad-4546-a840-50f5c82d9a90"><img src = "https://images.credly.com/size/340x340/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" width = "100px" height = "100px"></a>
+   <a href = "https://www.credly.com/badges/85c4d523-c297-43d2-a280-d8d61257c44e/public_url"><img src = "https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width = "100px" height = "100px"></a>
 </details>
 
 <hr>
