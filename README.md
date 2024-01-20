@@ -46,8 +46,12 @@
 <a href = "https://www.credly.com/badges/c379e97b-c657-42f2-8cb8-423f20023258"><img src = "https://images.credly.com/size/680x680/images/241488f4-9110-41aa-804e-51a8f8ba430d/MTA-Introduction_to_Programming_Using_HTML_and_CSS-600x600.png" width = "100px" height = "100px"></a>
 <a href = "https://www.credly.com/badges/fd500b4d-5ad8-4e74-874d-93df715c215d"><img src = "https://images.credly.com/size/680x680/images/d0790dc7-5127-4262-a492-1b60030b0114/MOS_Excel.png" width = "100px" height = "100px"></a>
 <a href = "https://www.credly.com/badges/49cd3f0a-0268-4d18-9bd7-127cd47d5425"><img src = "https://images.credly.com/size/680x680/images/fd092703-61db-4e9f-9c7c-2211d44ca87d/MOS_Word.png" width = "100px" height = "100px"></a>
-  <a href = "https://www.credly.com/earner/earned/badge/ce652f30-e9ad-4546-a840-50f5c82d9a90"><img src = "https://images.credly.com/size/340x340/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" width = "100px" height = "100px"></a>
-   <a href = "https://www.credly.com/badges/85c4d523-c297-43d2-a280-d8d61257c44e/public_url"><img src = "https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width = "100px" height = "100px"></a>
+<a href = "https://www.credly.com/earner/earned/badge/ce652f30-e9ad-4546-a840-50f5c82d9a90"><img src = "https://images.credly.com/size/340x340/images/04e8034c-81f5-4f7f-ab23-e8b428c31ce9/ITE.png" width = "100px" height = "100px"></a>
+<a href = "https://www.credly.com/badges/85c4d523-c297-43d2-a280-d8d61257c44e/public_url"><img src = "https://images.credly.com/size/340x340/images/af8c6b4e-fc31-47c4-8dcb-eb7a2065dc5b/I2CS__1_.png" width = "100px" height = "100px"></a>
+  
+<a href = "https://www.credly.com/badges/f528cd34-e99b-4127-aa1e-58a5184b8199/public_url"><img src = "https://images.credly.com/size/340x340/images/487b0a79-e99b-43ce-a7d8-28a76d5aa2d8/Adobe_Certified_Professional_Adobe_Premiere_Pro_digital_badge.png" width = "100px" height = "100px" border-radius = "100px"></a>
+<a href = "https://www.credly.com/badges/ce5640fd-acf6-4aba-acb5-9e60761cd5cf/public_url"><img src = "https://images.credly.com/size/340x340/images/5155ed69-ad73-45e3-831b-60507ddeb1ad/Adobe_Certified_Professional_Adobe_Illustrator_digital_badge.png" width = "100px" height = "100px"  border-radius = "100px"></a>
+<a href = "https://www.credly.com/badges/1f3aa6cc-49ce-4b8d-8427-d06aadea0f6c/public_url"><img src = "https://images.credly.com/size/340x340/images/690784d7-b971-4693-b6ea-7dc990f65544/Adobe_Certified_Professional_Adobe_Photoshop_digital_badge.png" width = "100px" height = "100px"  border-radius = "100px"></a>
 </details>
 
 <hr>
