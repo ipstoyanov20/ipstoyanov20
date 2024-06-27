@@ -28,6 +28,7 @@
 <img src = "https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" style = "margin-left:20px;">
 <img src = "https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" style = "margin-left:20px;">
 <img src = "https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white" style = "margin-left:20px;">
+
 </p>
 
 <img align = "right" width = "100%" height="10%" src = "https://cdn.dribbble.com/users/1355613/screenshots/10374655/media/5691629ca1e7389c34a9c0dae158b976.gif">
@@ -61,6 +62,7 @@
 <a href = "https://www.credly.com/badges/57347eb8-d176-4c89-9fcd-f8db47f31a04/public_url"><img src = "https://images.credly.com/size/110x110/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png" width = "100px" height = "100px"  border-radius = "100px"></a>
 <a href = "https://www.credly.com/badges/bc90adf6-3c9a-4e9b-b635-df044c37a8a8/public_url"><img src = "https://images.credly.com/size/340x340/images/49a492cd-5f72-4c9d-aafa-06649e4853fb/MicrosoftTeams-image__5_.png" width = "100px" height = "100px"  border-radius = "100px"></a>
 <a href = "https://www.credly.com/badges/a58514b8-1ac7-40e1-abf3-03c4409e07b1"><img src = "https://images.credly.com/size/680x680/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" width = "100px" height = "100px"></a>
+<img src = "https://porfolio.blob.core.windows.net/portfolio/AIBEST.jpg" width="900px" height="585px" style = "margin-left:20px; margin-up:100px;">
 </details>
 
 <hr>
