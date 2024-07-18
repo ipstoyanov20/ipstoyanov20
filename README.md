@@ -8,8 +8,6 @@
 <hr height = "6px">
 <p  align = "left" style = "display: flex;align-items: center;"> :yarn: Fun facts: I love listening to music, doing sports, drawing, playing video games and learning new things</p>
 <br>
-<p align = "left" style = "display: flex;align-items: center;"> :telephone_receiver: How to reach me: <a style = "text-decoration: none;" href = "mailto:ipstoyanov20@codingburgas.bg">ipstoyanov20@codingburgas.bg</a></p>
-<br>
 <p align = "left"> :door: Languaes and Tools that I used:
 <br><br>
 <img src = "https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" style = "margin-left:20px;">
