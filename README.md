@@ -60,8 +60,13 @@
 <a href = "https://www.credly.com/badges/57347eb8-d176-4c89-9fcd-f8db47f31a04/public_url"><img src = "https://images.credly.com/size/110x110/images/3c4602d8-832e-4a24-b42d-00359ce746f7/ITS-Badges_Python_1200px.png" width = "100px" height = "100px"  border-radius = "100px"></a>
 <a href = "https://www.credly.com/badges/bc90adf6-3c9a-4e9b-b635-df044c37a8a8/public_url"><img src = "https://images.credly.com/size/340x340/images/49a492cd-5f72-4c9d-aafa-06649e4853fb/MicrosoftTeams-image__5_.png" width = "100px" height = "100px"  border-radius = "100px"></a>
 <a href = "https://www.credly.com/badges/a58514b8-1ac7-40e1-abf3-03c4409e07b1"><img src = "https://images.credly.com/size/680x680/images/ef99b79e-fd54-4eb5-b2a4-bf17e92a4837/ITS-Badges_JavaScript_1200px.png" width = "100px" height = "100px"></a>
-<img src = "https://porfolio.blob.core.windows.net/portfolio/AIBEST.jpg" width="900px" height="585px" style = "margin-left:20px; margin-up:100px;">
 </details>
+🏆 Udemy Certificates
+<p align="center"> <a href="https://www.udemy.com/certificate/UC-33b7e6a9-0acb-45fd-9bde-7e847d013013/" target="blank"> <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-33b7e6a9-0acb-45fd-9bde-7e847d013013.jpg" alt="Udemy Certificate 1" width="420"/> </a> &nbsp;&nbsp; <a href="https://www.udemy.com/certificate/UC-ac6c1ad0-974b-4d81-877a-605fece1fb4e/" target="blank"> <img src="https://udemy-certificate.s3.amazonaws.com/image/UC-ac6c1ad0-974b-4d81-877a-605fece1fb4e.jpg?v=1791889221000" alt="Udemy Certificate 2" width="420"/> </a> </p>
+
+<p align="center"> <i>Click on either certificate to view and verify it on Udemy.</i> </p>
+
+
 
 <hr>
 <h1 align= "center">One Day or Day One - YOU DECIDE</h1>
